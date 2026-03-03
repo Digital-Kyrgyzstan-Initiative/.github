@@ -11,7 +11,7 @@
 
 ---
 
-## 🇰🇬 About Us
+##  About Us
 
 Welcome to the **Digital Kyrgyzstan Initiative**, an open-source hub. We develop digital solutions for the public and municipal sectors in the Kyrgyz Republic. Here, we share our work that can be useful for other government agencies, developers, and the entire IT community.
 
