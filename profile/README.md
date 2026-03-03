@@ -1,6 +1,6 @@
 <!-- Замените URL_ВАШЕГО_ЛОГО на прямую ссылку на логотип PetaByte -->
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/35875fb0-b297-4f9b-a512-b20e559a8311" width="200" alt="DKI Logo">
+  <img src="https://github.com/user-attachments/assets/266fabe4-5e79-4179-8ef7-aa268e498b29" width="200" alt="DKI Logo">
 </p>
 
 <h1 align="center">Welcome to the Digital Kyrgyzstan Initiative</h1>
