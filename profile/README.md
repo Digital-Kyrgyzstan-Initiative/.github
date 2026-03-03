@@ -1,6 +1,6 @@
 <!-- Замените URL_ВАШЕГО_ЛОГО на прямую ссылку на логотип PetaByte -->
 <p align="center">
-  <img src="<img width="1024" height="1024" alt="Gemini_Generated_Image_q8ajz9q8ajz9q8aj" src="https://github.com/user-attachments/assets/7b023473-6b91-4a4a-935e-f4bedd0cac79"/>
+  <img src="<img width="1024" height="1024" alt="Gemini_Generated_Image_q8ajz9q8ajz9q8aj" src="https://github.com/user-attachments/assets/7b023473-6b91-4a4a-935e-f4bedd0cac79" />
 " width="200" alt="PetaByte Logo">
 </p>
 
